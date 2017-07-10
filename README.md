@@ -8,5 +8,7 @@ Features
 2. Add to Cart
 3. Remove products from cart
 
+![alt text](https://github.com/shaluscaria/EcommerceApp/blob/master/images/screenshot.jpg)
+
 
 
