@@ -4,9 +4,9 @@ E-commerce App is a native iOS application developed using Swift 3 , which will 
 This would allow customers to view items and order any product from the list of items.
 
 Features
-	1.	Search for products
-	2.	Add to Cart
-	3.	Remove products from cart
+1. Search for products
+2. Add to Cart
+3. Remove products from cart
 
 
 
