@@ -8,12 +8,5 @@ Features
 	2.	Add to Cart
 	3.	Remove products from cart
 
-Screenshots
 
-![alt text](https://github.com/shaluscaria/EcommerceApp/blob/master/images/scr1.png)
-![alt text](https://github.com/shaluscaria/EcommerceApp/blob/master/images/scr2.png)
-![alt text](https://github.com/shaluscaria/EcommerceApp/blob/master/images/scr3.png)
-![alt text](https://github.com/shaluscaria/EcommerceApp/blob/master/images/scr4.png)
-![alt text](https://github.com/shaluscaria/EcommerceApp/blob/master/images/scr5.png)
-![alt text](https://github.com/shaluscaria/EcommerceApp/blob/master/images/scr6.png)
-![alt text](https://github.com/shaluscaria/EcommerceApp/blob/master/images/scr7.png)
+
