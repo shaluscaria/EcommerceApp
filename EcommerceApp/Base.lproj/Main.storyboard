@@ -116,7 +116,7 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Products" image="first" id="acW-dT-cKf"/>
+                    <tabBarItem key="tabBarItem" title="Products" image="ic_search" id="acW-dT-cKf"/>
                     <connections>
                         <outlet property="myprofile_lbl_welcome" destination="P2I-dO-ize" id="zFf-17-ULg"/>
                         <outlet property="productsvc_tableview" destination="bRm-GM-fIo" id="aLZ-Kl-nAw"/>
@@ -324,7 +324,7 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="My Cart" image="second" id="cPa-gy-q4n"/>
+                    <tabBarItem key="tabBarItem" title="My Cart" image="ic_shopping_cart" id="cPa-gy-q4n"/>
                     <connections>
                         <outlet property="mycartvc_tableview" destination="XzF-hX-tAY" id="XNu-Eg-I1M"/>
                     </connections>
@@ -656,7 +656,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="My Profile" id="MLt-d5-48L"/>
+                    <tabBarItem key="tabBarItem" title="My Profile" image="ic_account_circle" id="MLt-d5-48L"/>
                     <connections>
                         <outlet property="myprofile_lbl_welcome" destination="P2I-dO-ize" id="4RR-mo-CF8"/>
                         <outlet property="myprofile_txt_email" destination="1nl-Uf-JDe" id="f49-LU-GYZ"/>
@@ -711,14 +711,15 @@
     <resources>
         <image name="cyber" width="300" height="173"/>
         <image name="email" width="64" height="64"/>
-        <image name="first" width="30" height="30"/>
         <image name="greentick" width="290" height="290"/>
+        <image name="ic_account_circle" width="24" height="24"/>
+        <image name="ic_search" width="24" height="24"/>
+        <image name="ic_shopping_cart" width="24" height="24"/>
         <image name="lock" width="64" height="64"/>
         <image name="loginbgm" width="1250" height="2500"/>
         <image name="nameicon" width="256" height="256"/>
         <image name="phoneicon" width="256" height="256"/>
         <image name="profileicon" width="418" height="418"/>
-        <image name="second" width="30" height="30"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="gnm-ld-JuU"/>
